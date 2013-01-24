@@ -7,6 +7,7 @@ import com.cn.system.CreateJianTaoShu;
 public class JianTaoShu {
 
     /**
+     * main
      * @param args
      */
     public static void main(String[] args) {
